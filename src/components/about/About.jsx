@@ -19,17 +19,17 @@ const About = () => {
         </div>
         <div className="about__content">
           < div className='about__cards'>
-            <article className='about__Card'>
+            <article className='about__card'>
               <FaAward className='about__icon'/>
               <h5>Experience</h5>
               <small>UA Fullstack Flex Bootcamp 10/22-5/23</small>
             </article>
-            <article className='about__Card'>
+            <article className='about__card'>
               <FaUsers className='about__icon'/>
               <h5>Clients</h5>
               <small>Coming Soon!</small>
             </article>
-            <article className='about__Card'>
+            <article className='about__card'>
               <MdFolderCopy className='about__icon'/>
               <h5>Projects</h5>
               <small>Two fullstack projects completed in bootcamp, many more to come both personal and professional.</small>
