@@ -36,10 +36,9 @@ const About = () => {
             </article>
           </div>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa 
-            fugiat voluptatem iusto nobis earum aliquam! Ipsa numquam quam 
-            sed impedit iure, dolorem, illum perspiciatis magnam distinctio 
-            facere pariatur autem ipsum?
+            I am a motivated individual looking to expand my knowledge endlessly and apply my skills everywhere possible. Throughout a six month intensive full-stack bootcamp I have learned
+            both front and back end, however I have found a passion for the front end. I especialy enjoy helping with anything involving design. Problem solving excites me and I look forward to 
+            the continuous learning that the vast and growing development world brings.
           </p>
 
           <a href="#contact" className='btn btn-primary'>Let's get in touch!</a>

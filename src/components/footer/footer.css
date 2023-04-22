@@ -4,6 +4,7 @@ footer {
     text-align: center;
     font-size: 0.9rem;
     margin-top: 7rem;
+
 }
 footer a {
     color: var(--olor-bg);
@@ -51,6 +52,13 @@ footer a {
     margin-bottom: 4rem;
     color: var(--color-bg);
 }
+.scroll__up {
+    position:absolute;
+    right: 12rem;
+    transform: rotate(90deg);
+    font-weight: 300;
+    font-size: 0.9rem;
+}
 
 /* sm media */
 @media (max-width: 600px) {
@@ -60,5 +68,8 @@ footer a {
     }
     .footer__socials{
         margin-bottom: 1.6rem;
+    }
+    .scroll__up{
+        display:none;
     }
 }
