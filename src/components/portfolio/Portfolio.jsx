@@ -5,7 +5,6 @@ import MYTHICALMUTTS from '../../assets/mythicalmutts.png'
 import NOTES from '../../assets/notes.png'
 import PASSWORDGEN from '../../assets/passwordgen.png'
 import QUIZ from '../../assets/quiz.png'
-import TEAMPROFILE from '../../assets/teamprofile.png'
 import WEATHER from '../../assets/weather.png'
 import WORKDAYSCHEDULE from '../../assets/workdayschedule.png'
 
@@ -28,43 +27,36 @@ const data = [
     id: 3,
     image: NOTES,
     title: 'Note Taker',
-    github: "https://github.com/krchandler27/resplendent-recipe-finder",
-    demo: "https://krchandler27.github.io/resplendent-recipe-finder/"
+    github: "https://github.com/kthlnt/Note-Taker",
+    demo: "https://dashboard.heroku.com/apps/note-taking-helper-app"
   },
   {
     id: 4,
     image: WEATHER,
     title: 'Weather App',
-    github: "https://github.com/krchandler27/resplendent-recipe-finder",
-    demo: "https://krchandler27.github.io/resplendent-recipe-finder/"
+    github: "https://github.com/kthlnt/Weather-Dashboard",
+    demo: "https://kthlnt.github.io/Weather-Dashboard/"
   },
   {
     id: 5,
     image: WORKDAYSCHEDULE,
     title: 'A Schedule For Your Day',
-    github: "https://github.com/krchandler27/resplendent-recipe-finder",
-    demo: "https://krchandler27.github.io/resplendent-recipe-finder/"
+    github: "https://github.com/kthlnt/Work-Day-Scheduler",
+    demo: "https://kthlnt.github.io/Work-Day-Scheduler/"
   },
   {
     id: 6,
     image: QUIZ,
     title: 'Timed Quiz',
-    github: "https://github.com/krchandler27/resplendent-recipe-finder",
-    demo: "https://krchandler27.github.io/resplendent-recipe-finder/"
+    github: "https://github.com/kthlnt/Timed-Quiz",
+    demo: "https://kthlnt.github.io/Timed-Quiz/"
   },
   {
     id: 7,
     image: PASSWORDGEN,
     title: 'Password Generator',
-    github: "https://github.com/krchandler27/resplendent-recipe-finder",
-    demo: "https://krchandler27.github.io/resplendent-recipe-finder/"
-  },
-  {
-    id: 8,
-    image: TEAMPROFILE,
-    title: 'Team Profile Generator',
-    github: "https://github.com/krchandler27/resplendent-recipe-finder",
-    demo: "https://krchandler27.github.io/resplendent-recipe-finder/"
+    github: "https://github.com/kthlnt/Password-Generator",
+    demo: "https://kthlnt.github.io/Password-Generator/"
   },
 ]
 
