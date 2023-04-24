@@ -36,9 +36,14 @@ const About = () => {
             </article>
           </div>
           <p>
-            I am a motivated individual looking to expand my knowledge endlessly and apply my skills everywhere possible. Throughout a six month intensive full-stack bootcamp I have learned
-            both front and back end, however I have found a passion for the front end. I especialy enjoy helping with anything involving design. Problem solving excites me and I look forward to 
-            the continuous learning that the vast and growing development world brings.
+          As a junior web developer. I have a passion for coding and creating beautiful, 
+          functional websites that make people's lives easier. As a bootcamp graduate, 
+          I continue to spend countless hours honing my skills and learning new technologies to bring my clients' visions to life.
+          I am always eager to learn and experiment with new tools and techniques to stay on the cutting 
+          edge of the ever-evolving web development industry. I pride myself on my strong communication skills, attention to detail, 
+and ability to work well under pressure. Ultimately, my goal as a web developer is to create user-friendly 
+websites that provide value to my clients and their audiences. Thank you for taking the time to visit my portfolio website, 
+and I look forward to the opportunity to work with you!
           </p>
 
           <a href="#contact" className='btn btn-primary'>Let's get in touch!</a>

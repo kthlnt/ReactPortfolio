@@ -3,7 +3,7 @@ import './nav.css';
 import {HiHome} from 'react-icons/hi';
 import {FaSmileWink} from 'react-icons/fa';
 import {FaBook} from 'react-icons/fa';
-import {MdMiscellaneousServices} from 'react-icons/md';
+// import {MdMiscellaneousServices} from 'react-icons/md';
 import {MdOutlineConnectWithoutContact} from 'react-icons/md';
 import {useState} from 'react';
 
