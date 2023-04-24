@@ -33,6 +33,6 @@
 
   ## Questions?
 
-  GitHub: [@RachelWildberger](https://github.com/kthlnt)
+  GitHub: [@kthlnt](https://github.com/kthlnt)
 
   Email: kathlantto@gmail.com
